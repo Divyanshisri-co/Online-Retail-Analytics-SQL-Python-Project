@@ -25,7 +25,7 @@ Environment: Jupyter Notebook
 
 # Dataset
 
-Source: Online Retail Dataset (UCI Machine Learning Repository)
+Source: Online Retail Dataset kaggle 
 
 File Name: online_retail_.csv
 
